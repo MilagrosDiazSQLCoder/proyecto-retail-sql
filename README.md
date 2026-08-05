@@ -1,4 +1,4 @@
- Pre-entrega: Esquema Base para Proyecto Retail
+ Pre-entrega: Tablas Principales con Restricciones y Datos Iniciales
 
 Este repositorio contiene la estructura inicial de la base de datos retail_project
 
